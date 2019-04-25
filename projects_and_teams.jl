@@ -163,10 +163,10 @@ projects = Project[
 			pre_registration = "Andrej, Jovana",
 			members = Student[
 				Student(
-					name    = "",
-					surname = "",
-					index   = "RA-xxx/20yy",
-					email   = "@",
+					name    = "Jovana",
+					surname = "Crveni",
+					index   = "RA-175/2016",
+					email   = "jovana.crveni@gmail.com",
 					points  = 0,
 				),
 				Student(
